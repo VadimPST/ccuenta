@@ -34,7 +34,7 @@ public class Ccuenta {
 		saldo = saldo - cantidad;
 	}
 
-	// Método que me devuelve el número de cuenta
+	// Metodo que me devuelve el numero de cuenta
 	public String getCuenta() {
 		return cuenta;
 	}
